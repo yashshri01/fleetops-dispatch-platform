@@ -1,0 +1,7 @@
+{
+  "provider": "demo-object-store",
+  "bucket": "fleetops-proof-of-delivery-demo",
+  "region": "ap-south-1",
+  "cloud_secret": "CLOUD_SECRET=demo-cloud-secret-placeholder",
+  "api_key": "API_KEY=demo-storage-api-key-placeholder"
+}

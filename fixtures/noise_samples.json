@@ -1,0 +1,25 @@
+{
+  "description": "Benign strings and negative examples for scanner evaluation.",
+  "samples": [
+    {
+      "type": "NO_CREDENTIAL",
+      "value": "delivery_status = ready"
+    },
+    {
+      "type": "NO_CREDENTIAL",
+      "value": "route_name = north_hub_loop"
+    },
+    {
+      "type": "NO_CREDENTIAL",
+      "value": "example.invalid"
+    },
+    {
+      "type": "NO_CREDENTIAL",
+      "value": "token_status = expired"
+    },
+    {
+      "type": "NO_CREDENTIAL",
+      "value": "api_key_required = true"
+    }
+  ]
+}

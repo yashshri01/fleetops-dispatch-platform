@@ -1,0 +1,12 @@
+# Local build and editor artifacts
+.DS_Store
+.idea/
+.vscode/
+.gradle/
+target/
+build/
+.swiftpm/
+.dart_tool/
+*.log
+.env
+.env.*

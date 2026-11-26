@@ -1,0 +1,8 @@
+# Synthetic scanner fixture. Values are deliberately non-functional.
+development:
+  adapter: postgresql
+  host: localhost
+  database: fleetops_demo
+  username: demo_dispatch
+  credential_ref: "DATABASE_CREDENTIAL: demo-db-credential-placeholder"
+  port: 5432
